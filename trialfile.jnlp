@@ -10,7 +10,7 @@
         <!-- Application Resources -->
         <j2se version="1.6+" href=
            "http://java.sun.com/products/autodl/j2se"/>
-        <jar href="cs1013-1617-23.jar"
+        <jar href="tree/master/cs1013-1617-23.jar"
             main="true" />
 
     </resources>
