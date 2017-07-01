@@ -10,13 +10,13 @@
         <!-- Application Resources -->
         <j2se version="1.6+" href=
            "http://java.sun.com/products/autodl/j2se"/>
-        <jar href="tree/master/cs1013-1617-23.jar"
+        <jar href="cs1013-1617-23.jar"
             main="true" />
 
     </resources>
     <application-desc
-         name="House mapper"
-         main-class="Main"
+         name="House mapper application"
+         main-class="middleware.Main"
          width="300"
          height="300">
      </application-desc>
