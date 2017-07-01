@@ -4,6 +4,10 @@
 <script src="https://www.java.com/js/deployJava.js"></script>
 <body>
 <h1>Hello world</h1>
-<p><a href="javascript:deployJava.launchWebStartApplication('trialfile.jnlp');">Click here</a></p>
+  <script>        
+    var jnlpFile = "trialfile.jnlp";
+    deployJava.createWebStartLaunchButtonEx(jnlpFile);
+</script>
+<p><a href="javascript:deployJava.launchWebStartApplication('trialfile.jnlp');">Click here pls</a></p>
 </body>
 </html>
