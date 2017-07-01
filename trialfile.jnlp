@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp spec="1.0+" codebase="" href="">
+    <information>
+        <title>House mapper</title>
+        <vendor>Me</vendor>
+        <icon href="ship.gif"/>
+        <offline-allowed/>
+    </information>
+    <resources>
+        <!-- Application Resources -->
+        <j2se version="1.6+" href=
+           "http://java.sun.com/products/autodl/j2se"/>
+        <jar href="cs1013-1617-23.jar"
+            main="true" />
+
+    </resources>
+    <application-desc
+         name="House mapper"
+         main-class="Main"
+         width="300"
+         height="300">
+     </application-desc>
+     <update check="background"/>
+</jnlp>
