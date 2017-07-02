@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<jnlp spec="1.0+" codebase="" href="">
+<jnlp spec="1.0+" codebase="https://bluesmiley.github.io/trialttempt/" href="trialfile.jnlp">
     <information>
         <title>House mapper</title>
         <vendor>Me</vendor>
